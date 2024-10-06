@@ -51,7 +51,7 @@ header a {
 }
 
 /* RESPONSIVENESS STARTS */
-.carousel-item img {
+/* .carousel-item img {
   width: 100%;
   height: auto;
 }
@@ -77,7 +77,7 @@ header a {
 .container {
   padding-left: 15px;
   padding-right: 15px;
-}
+} */
 /* RESPONSIVENESS ENDS */
 
 /*----MISSIONARIES CARDS ENDS*/
